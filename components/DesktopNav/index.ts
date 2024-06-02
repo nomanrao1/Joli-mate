@@ -1,0 +1,1 @@
+export { DesktopNav as default } from './DesktopNav.component';
